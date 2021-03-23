@@ -1,0 +1,19 @@
+{
+  margin: 0px;
+  padding: 0px;
+}
+
+div#etiqueta1{
+  margin:auto;
+  margin-top: auto;
+  padding: 20px;
+  width: 950px;
+  height:2900px;
+  background-color: #71A5DF;
+  border-collapse: collapse;
+  border: 7px solid #ECEE7A;
+}
+
+body{
+  font-family: verdana;
+}
